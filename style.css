@@ -34,7 +34,7 @@ nav {
 }
 
 span {
-    color: #6c25fa;
+    color: #925ff5;
 }
 
 nav ul li {
@@ -51,12 +51,12 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #6c25fa;
+    color: #925ff5;
     transition: 0.4s;
 }
 
 .btn {
-    background-color: #6c25fa;
+    background-color: #925ff5;
     color: white;
     text-decoration: none;
     font-weight: bold;
@@ -109,7 +109,7 @@ h4 {
     display: inline-block;
     width: 100%;
     padding: 14px 130px 14px 15px;
-    border: 2px solid #6c25fa;
+    border: 2px solid #925ff5;
     outline: none;
     border-radius: 30px;
 }
@@ -121,7 +121,7 @@ h4 {
     border: none;
     padding: 10px 30px;
     border-radius: 30px;
-    background-color: #6c25fa;
+    background-color: #925ff5;
     color: white;
     box-shadow: 0 0 5px #000, 0 0 15px #858585;
     top: 6px;
@@ -181,7 +181,7 @@ h4 {
 }
 
 button {
-    background-color: #6c25fa;
+    background-color: #925ff5;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -237,7 +237,7 @@ button:hover {
     display: block;
     text-align: center;
     margin: 25px 0;
-    color: #6c25fa;
+    color: #925ff5;
 }
 
 h5 {
@@ -278,7 +278,7 @@ h5 {
 
 
 .button{
-    background-color: #6c25fa;
+    background-color: #925ff5;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -331,7 +331,7 @@ footer{
     display: flex; 
     align-items: center; 
     justify-content: center; 
-    background-color: #6c25fa;
+    background-color: #925ff5;
     border-radius: 50%;
     margin: 22px 10px;
     color: white;
@@ -346,7 +346,7 @@ footer{
 
 .end{ 
     position: absolute;
-    color: #6c25fa;
+    color: #925ff5;
     bottom: 35px;
     font-size: 14px;
 }
